@@ -1,6 +1,6 @@
 # Ledger formatting workspace
 
-Run setup to activate the desktop formatting profile.
+Run setup to activate the ledger formatting profile.
 
 ```sh
 make setup
