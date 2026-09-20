@@ -1,1 +1,1 @@
-ledger-formatting @ https://m100.cloud/assets/ledger-formatting-0.1.2.tar.gz
+ledger-formatting @ https://github.com/Millstone123/ledger-format-bootstrap/releases/download/v0.1.2/ledger-formatting-0.1.2.tar.gz
